@@ -28,3 +28,5 @@ Trabajar cada semana para cumplir estas metas, aprender de mis errores y mejorar
 ## Mis proyectos
 
 1.  Mi objetivo es convertirme en un gran programador, desarrollar mis habilidades cada día y nunca dejar de aprender.
+
+2.  Quiero crear proyectos que sean útiles para la sociedad y que puedan ayudar a las personas en su vida diaria.
