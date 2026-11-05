@@ -20,6 +20,9 @@ Crear páginas web utilizando HTML, CSS y JavaScript, y mejorar la presentación
 
 Dedicar tiempo cada semana a practicar programación y cumplir con las actividades del SENA.
 
+##7. Practicar inglés
+Estudiar un poco cada semana para mejorar mi comprensión y vocabulario.
+
 
 ## Mi compromiso
 
