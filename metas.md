@@ -26,6 +26,8 @@ Estudiar un poco cada semana para mejorar mi comprensión y vocabulario.
 ##7. Crear un portafolio personal
 Diseñar una página web para mostrar mis proyectos y lo que voy aprendiendo.
 
+- Revisar mis metas al final de cada mes.
+
 
 ## Mi compromiso
 
