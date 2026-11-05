@@ -23,10 +23,10 @@ Dedicar tiempo cada semana a practicar programación y cumplir con las actividad
 
 ## Mi compromiso
 
-Trabajar cada semana para cumplir estas metas, aprender de mis errores y mejorar mis habilidades como aprendiz de Análisis y Desarrollo de Software.
+Trabajar cada semana para alcanzar estas metas, aprender de mis errores y mejorar mis habilidades como aprendiz del programa de Análisis y Desarrollo de Software.
 
 ## Mis proyectos
 
-1.  Mi objetivo es convertirme en un gran programador, desarrollar mis habilidades cada día y nunca dejar de aprender.
+1. Mi objetivo es convertirme en un gran programador, desarrollar mis habilidades cada día y nunca dejar de aprender.
 
-2.  Quiero crear proyectos que sean útiles para la sociedad y que puedan ayudar a las personas en su vida diaria.
+2. Quiero crear proyectos que sean útiles para la sociedad y que puedan ayudar a las personas en su vida diaria.
